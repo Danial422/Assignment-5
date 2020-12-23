@@ -1,0 +1,26 @@
+h1 {
+    color: blue;
+    margin: 50px;
+}
+b{
+    font-size: 120%;
+   padding-left: 50px;
+}
+th {
+    background-color: coral;}
+ td {
+     color: brown;
+     
+ }
+ body{
+     background-color: rgb(194, 199, 209);
+ }
+ h3 {
+     margin-left: 20px;
+ }
+  p{
+     margin-left: 40px;
+ }
+ table {
+     margin-left: 70px;
+ }
